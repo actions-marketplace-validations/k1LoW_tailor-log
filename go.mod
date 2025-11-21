@@ -13,7 +13,7 @@ require (
 	github.com/k1LoW/duration v1.2.0
 	github.com/k1LoW/errors v1.1.0
 	github.com/k1LoW/go-github-actions v0.2.0
-	github.com/k1LoW/go-github-client/v75 v75.0.19
+	github.com/k1LoW/go-github-client/v75 v75.0.20
 	github.com/spf13/cobra v1.10.1
 	golang.org/x/sync v0.18.0
 	google.golang.org/protobuf v1.36.10
@@ -26,7 +26,7 @@ require (
 	github.com/Azure/azure-sdk-for-go/sdk/storage/azblob v1.6.3 // indirect
 	github.com/DataDog/zstd v1.5.7 // indirect
 	github.com/bradleyfalzon/ghinstallation/v2 v2.17.0 // indirect
-	github.com/cli/go-gh/v2 v2.12.2 // indirect
+	github.com/cli/go-gh/v2 v2.13.0 // indirect
 	github.com/cli/safeexec v1.0.1 // indirect
 	github.com/decred/dcrd/dcrec/secp256k1/v4 v4.4.0 // indirect
 	github.com/goccy/go-json v0.10.5 // indirect
