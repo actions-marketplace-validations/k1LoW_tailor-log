@@ -3,10 +3,10 @@ module github.com/k1LoW/tailor-log
 go 1.25.3
 
 require (
-	buf.build/gen/go/tailor-inc/tailor/connectrpc/go v1.19.1-20251202081801-942bda9344b6.2
-	buf.build/gen/go/tailor-inc/tailor/protocolbuffers/go v1.36.10-20251202081801-942bda9344b6.1
+	buf.build/gen/go/tailor-inc/tailor/connectrpc/go v1.19.1-20251215013159-5fcd1dda7d1f.2
+	buf.build/gen/go/tailor-inc/tailor/protocolbuffers/go v1.36.10-20251215013159-5fcd1dda7d1f.1
 	connectrpc.com/connect v1.19.1
-	github.com/DataDog/datadog-api-client-go/v2 v2.50.0
+	github.com/DataDog/datadog-api-client-go/v2 v2.51.0
 	github.com/IGLOU-EU/go-wildcard/v2 v2.1.0
 	github.com/google/go-github/v75 v75.0.0
 	github.com/k1LoW/donegroup v1.10.2
@@ -15,8 +15,8 @@ require (
 	github.com/k1LoW/go-github-actions v0.2.0
 	github.com/k1LoW/go-github-client/v75 v75.0.21
 	github.com/spf13/cobra v1.10.2
-	golang.org/x/sync v0.18.0
-	google.golang.org/protobuf v1.36.10
+	golang.org/x/sync v0.19.0
+	google.golang.org/protobuf v1.36.11
 )
 
 require (
